@@ -1,0 +1,11 @@
+using System;
+namespace shorfunction
+{
+class shorfunc
+{
+public static void Main(string[] args)
+{
+Console.WriteLine("test");
+}
+}
+}
